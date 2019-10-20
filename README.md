@@ -5,9 +5,9 @@ A childrens game digitized and bereft of any fun
 npm run play [players]
 
 example:  
-   >$ npm run play mike, greg, john
+   >$ npm run play Mike, Greg, John
 
-this will start a game with the three players 'mike', 'gregers' , and 'john'.
+this will start a game with the three players 'Mike', 'Greg' , and 'John'.
 
 ### The rules:
 Each player start with 10 eggs in their basket. The objective is to get rid off all the eggs in the basket - 
