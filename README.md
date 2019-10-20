@@ -1,7 +1,7 @@
 # FryingEggs
 A childrens game digitized and bereft of any fun
 
-###Start game:  
+### Start game:  
 npm run play [players]
 
 example:  
@@ -9,7 +9,7 @@ example:
 
 this will start a game with the three players 'mike', 'gregers' , and 'john'.
 
-###The rules:
+### The rules:
 Each player start with 10 eggs in their basket. The objective is to get rid off all the eggs in the basket - 
 either by placing on a plate, or in the frying pan.
 
