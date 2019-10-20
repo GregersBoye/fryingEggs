@@ -31,7 +31,7 @@ while (players.length > 0) {
     } else {
       if (!baskets[roll]) {
         player.eggBasket--;
-        console.log(`${player.name} has put an egg on place #${roll+1}, and has ${player.eggBasket} eggs left`);
+        console.log(`${player.name} has put an egg on plate #${roll+1}, and has ${player.eggBasket} eggs left`);
       } else {
         player.eggBasket++;
         console.log(`${player.name} has taken an egg from plate #${roll+1}, and has ${player.eggBasket} eggs left`);
